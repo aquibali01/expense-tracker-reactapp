@@ -7,7 +7,7 @@ const AccountSummary = () => {
                 <h4>
                     Expense
                 </h4>
-                <h2 className="money plus">
+                <h2 className="money minus">
                     0
                 </h2>
             </div>
@@ -15,7 +15,7 @@ const AccountSummary = () => {
                 <h4>
                     Income
                 </h4>
-                <h2 className="money minus">
+                <h2 className="money plus">
                     0
                 </h2>
             </div>

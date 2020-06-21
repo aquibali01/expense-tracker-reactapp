@@ -36,6 +36,7 @@ export const AddTransaction = () => {
         </div>
         <button className="btn">Add transaction</button>
       </form>
+      <h5>Created by Aquib Ali.</h5>
     </>
   )
 }
